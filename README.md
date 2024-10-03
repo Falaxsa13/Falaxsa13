@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hans</h1>
 <h3 align="center">A passionate developer from Peru, currently studying Computer Science at Georgia Institute of Technology</h3>
 
-- 🔭 I’m currently working on [Mariella](https://github.com/Falaxsa13/Mariella) and [Matu](https://github.com/Falaxsa13/Matu-Travel)
-
 - 🌱 I’m currently learning **Typescript, React and Django**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Falaxsa13](https://github.com/Falaxsa13)

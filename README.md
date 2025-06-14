@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **hans.ibarra51@gmail.com**
 
-- 📄 My past work ** Google Software Engineer Intern at Youtube Ads & Google Workspace**
+- 📄 My past work **Google Software Engineer Intern at Youtube Ads & Google Workspace**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

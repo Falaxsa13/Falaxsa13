@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hans Ibarra</h1>
-<h3 align="center">A rising junior at Georgia Tech from Peru</h3>
+<h3 align="center">Software Engineer @ Google and rising junior @ Georgia Tech </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=falaxsa13&label=Profile%20views&color=0e75b6&style=flat" alt="falaxsa13" /> </p>
 

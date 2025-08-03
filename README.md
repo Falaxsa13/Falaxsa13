@@ -7,11 +7,11 @@
 
 - 👨‍💻 All of my projects are available at [https://www.hansibarra.com](https://www.hansibarra.com)
 
-- hansibarra.com
-- confiesa.app
-- usenarsil.com
-- abroadperu.org
-- valinorgov.com
+- [hansibarra.com](https://www.hansibarra.com)
+- [confiesa.app](http://confiesa.app)
+- [usenarsil.com](http://usenarsil.com)
+- [abroadperu.org](http://abroadperu.org)
+- [valinorgov.com](http://valinorgov.com)
 
 - 💬 My past work **SWE Intern @ Youtube Ads & Google Workspace**
 

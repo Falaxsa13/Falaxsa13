@@ -7,6 +7,12 @@
 
 - 👨‍💻 All of my projects are available at [https://www.hansibarra.com](https://www.hansibarra.com)
 
+- hansibarra.com
+- confiesa.app
+- usenarsil.com
+- abroadperu.org
+- valinorgov.com
+
 - 💬 My past work **SWE Intern @ Youtube Ads & Google Workspace**
 
 - 📫 How to reach me **Hans.ibarra51@gmail.com**

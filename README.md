@@ -7,13 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.hansibarra.com](https://www.hansibarra.com)
 
-- [hansibarra.com](https://www.hansibarra.com)
-- [confiesa.app](http://confiesa.app)
-- [usenarsil.com](http://usenarsil.com)
-- [abroadperu.org](http://abroadperu.org)
-- [valinorgov.com](http://valinorgov.com)
-
-- 💬 My past work **SWE Intern @ Youtube Ads & Google Workspace**
+- 💬 My past work **SWE Intern @ Youtube Ads & Google Workspace AI**
 
 - 📫 How to reach me **Hans.ibarra51@gmail.com**
 

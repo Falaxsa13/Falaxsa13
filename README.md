@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hans Ibarra!</h1>
-<h3 align="center">Software Engineer @ Google and rising junior @ Georgia Tech </h3>
+<h3 align="center">AI @ Google and CS @ Georgia Tech </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=falaxsa13&label=Profile%20views&color=0e75b6&style=flat" alt="falaxsa13" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.hansibarra.com](https://www.hansibarra.com)
 
-- 💬 My past work **SWE Intern @ Youtube Ads & Google Workspace AI**
+- 💬 My past work **Youtube Ads & Workspace AI**
 
 - 📫 How to reach me **Hans.ibarra51@gmail.com**
 

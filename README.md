@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.hansibarra.com](https://www.hansibarra.com)
 
-- 💬 My past work **Youtube Ads & Workspace AI**
+- 💬 My past work **Youtube Ads, Google Workspace, AI Core Labs**
 
 - 📫 How to reach me **Hans.ibarra51@gmail.com**
 

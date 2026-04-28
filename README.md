@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently building **[Valinor](https://www.valinorhqcom)** and **[Fortitude](https://www.tryfortitude.com)**
 
-- 👨‍💻 All of my projects are available at [https://www.hansibarra.com](https://www.hansibarra.com)
+- 👨‍💻 More about me [https://www.hansibarra.com](https://www.hansibarra.com)
 
-- 💬 My past work **Youtube Ads, Google Workspace, AI Core Labs**
+- 💬 My past work **Youtube Ads, Google Workspace, and Gemini**
 
-- 📫 How to reach me **Hans.ibarra51@gmail.com**
+- 📫 How to reach me **hans.ibarra51@gmail.com** and **hans@valinorhq.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

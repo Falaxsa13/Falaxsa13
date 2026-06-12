@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=falaxsa13&label=Profile%20views&color=0e75b6&style=flat" alt="falaxsa13" /> </p>
 
-- 🔭 I’m currently building **[Valinor](https://www.valinorhq.com)** and **[Fortitude](https://www.tryfortitude.com)**
+- 🔭 I’m currently building **[Dialogus](https://www.dialoguslabs.com)**
 
 - 👨‍💻 More about me [https://www.hansibarra.com](https://www.hansibarra.com)
 

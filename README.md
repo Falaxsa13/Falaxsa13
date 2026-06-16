@@ -9,7 +9,7 @@
 
 - 💬 My past work **Youtube Ads, Google Workspace, and Gemini**
 
-- 📫 How to reach me **hans.ibarra51@gmail.com** and **hans@valinorhq.com**
+- 📫 How to reach me **hans.ibarra51@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

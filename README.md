@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hans Ibarra!</h1>
-<h3 align="center">Peruvian | Co-founder @ Dialogus (YC S26)| Ex-Google | </h3>
+<h3 align="center">Peruvian | Co-founder @ Dialogus (YC S26)| Ex-Google </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=falaxsa13&label=Profile%20views&color=0e75b6&style=flat" alt="falaxsa13" /> </p>
 
